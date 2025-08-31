@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# JSON Konfigurationsdateien mit sensiblen Daten
+jsons/*.json
+!jsons/*.json.example
+
+# Backup Dateien
+*.backup
+
+# Logs
+*.log
+log-*

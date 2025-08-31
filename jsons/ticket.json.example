@@ -1,0 +1,12 @@
+{
+  "CreateTicketButton": {
+    "msg": "YOUR_MESSAGE_ID_HERE",
+    "channel": "YOUR_CHANNEL_ID_HERE"
+  },
+  "ticket": 0,
+  "ticketmods": [
+    123456789012345678,
+    987654321098765432
+  ],
+  "ticketMSG": {}
+}

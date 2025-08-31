@@ -1,0 +1,10 @@
+{
+  "selfroles": [
+    123456789012345678,
+    987654321098765432
+  ],
+  "selfrolesMSG": {
+    "channel": "YOUR_CHANNEL_ID_HERE",
+    "msg": "YOUR_MESSAGE_ID_HERE"
+  }
+}

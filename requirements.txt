@@ -1,0 +1,5 @@
+discord.py==2.3.2
+requests==2.31.0
+validators==0.22.0
+DateTime==5.3
+Pillow==10.2.0

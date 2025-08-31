@@ -1,0 +1,23 @@
+{
+  "twitchnotify": {
+    "your_twitch_username": {
+      "live": "false"
+    }
+  },
+  "ytnotify": {
+    "YOUR_YOUTUBE_CHANNEL_ID": {
+      "channel_name": "Your Channel Name",
+      "latestvideourl": "https://www.youtube.com/watch?v=EXAMPLE"
+    }
+  },
+  "ttnotify": {
+    "latestvideourl": "https://www.tiktok.com/@username/video/123456789"
+  },
+  "notifyingchannel": 0,
+  "twitchnotrole": 0,
+  "ytnotrole": 0,
+  "ttnotrole": 0,
+  "currentAPIKey1": "YOUR_RAPID_API_KEY_1_HERE",
+  "currentAPIKey2": "YOUR_RAPID_API_KEY_2_HERE",
+  "currentAPIKey": "currentAPIKey1"
+}
