@@ -81,5 +81,3 @@ bot = MyDiscordBot(intents=intents)
 with open("jsons/env.json", "r") as f:
   env = json.load(f)
 bot.run(env['TOKEN'])
-
-a
